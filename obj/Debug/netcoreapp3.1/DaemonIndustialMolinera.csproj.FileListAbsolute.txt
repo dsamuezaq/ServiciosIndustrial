@@ -1,0 +1,393 @@
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.exe
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.deps.json
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.json
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.dev.json
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csprojAssemblyReference.cache
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfoInputs.cache
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfo.cs
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CopyComplete
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\David Samueza\source\repos\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.exe
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.deps.json
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.json
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.dev.json
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfoInputs.cache
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfo.cs
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CopyComplete
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\Documents\DaemonIndustialMolinera\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csprojAssemblyReference.cache
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csprojAssemblyReference.cache
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfoInputs.cache
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfo.cs
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CoreCompileInputs.cache
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.exe
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.deps.json
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.json
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.dev.json
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CopyComplete
+C:\Users\dsamueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.genruntimeconfig.cache
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfoInputs.cache
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfo.cs
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.exe
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.deps.json
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.json
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.dev.json
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CopyComplete
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\David Samueza\Source\Repos\MardisIT\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csprojAssemblyReference.cache
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.exe
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.deps.json
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.json
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.runtimeconfig.dev.json
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csprojAssemblyReference.cache
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfoInputs.cache
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.AssemblyInfo.cs
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CoreCompileInputs.cache
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.csproj.CopyComplete
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.dll
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.pdb
+C:\Users\dsamueza\Documents\source\IndustrialServiciosAPI\obj\Debug\netcoreapp3.1\DaemonIndustialMolinera.genruntimeconfig.cache
